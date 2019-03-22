@@ -10,7 +10,7 @@ namespace Proyecto_de_Consola
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola mundo");
+            Console.WriteLine("Hola camila!"); //Agregado por martin gimenez
         }
     }
 }
